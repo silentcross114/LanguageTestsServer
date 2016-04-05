@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SelfAssessmentTestModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Export 2</Title>
+  <Questions>
+    <SurveyResponseQuestion>
+      <QuestionId>
+        <Value>5861</Value>
+      </QuestionId>
+      <QuestionType>SurveyResponse</QuestionType>
+      <Weight>0.4</Weight>
+      <QuestionTexts>
+        <item>
+          <key>
+            <string>de-DE</string>
+          </key>
+          <value>
+            <string>Wenn ich gesprochenes Englisch höre, verstehe ich:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>fr-FR</string>
+          </key>
+          <value>
+            <string>Quand j'entends parler anglais, j'arrive à comprendre :</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>it-IT</string>
+          </key>
+          <value>
+            <string>Quando sento parlare Inglese, capisco:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ja-JP</string>
+          </key>
+          <value>
+            <string>英語が話されているのを聞いたときに、次の内容を理解できる。</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ko-KR</string>
+          </key>
+          <value>
+            <string>영어에서 말하기를 하는 경우, 이해할 수 있는 내용은 다음과 같습니다.</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>nl-NL</string>
+          </key>
+          <value>
+            <string>Als ik gesproken Engelse hoor, kan ik:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>pt-BR</string>
+          </key>
+          <value>
+            <string>Quando ouço alguém falar em inglês, eu posso compreender:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>es-419</string>
+          </key>
+          <value>
+            <string>Cuando escucho hablar en Inglés, puedo comprender lo siguiente:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>en-US</string>
+          </key>
+          <value>
+            <string>When I hear spoken English, I can understand:</string>
+          </value>
+        </item>
+      </QuestionTexts>
+      <Answers>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-1</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Aussagen mit ein bis zwei Wörtern oder weniger</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Un à deux mots, voire moins</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>frasi di uno o due parole o meno</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>1 ～ 2 個程度の単語</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>한 두 단어 이하로 구성된 문장</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>korte zinnen van een of twee woorden verstaan, of minder;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>uma ou duas frases, ou até menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>enunciados de una o dos palabras, o menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>one- or two-word statements, or less</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>1</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-2</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>grundlegende alltäglich verwendete Wörter und Sätze</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les mots et expressions élémentaires de tous les jours</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>parole ed espressioni di uso quotidiano</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>日常的に使われる基本的な単語や語句</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>기초적인 일상 단어 및 구절</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>alledaagse woorden en zinsfragmenten verstaan;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>palavras e frases básicas do dia a dia</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>palabras y frases básicas de la vida cotidiana</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>basic everyday words and phrases</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>2</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-3</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Kernaussagen kurzer, klarer und einfacher Nachrichten</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les principaux points de messages courts, simples et clairs</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>i punti principali in messaggi brevi, chiari e semplici</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>短く、明快で単純なメッセージの要点</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>짧고 분명하며 간단한 메시지로 표현된 요점</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>hoofdpunten in korte, duidelijke, eenvoudige boodschappen verstaan;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>os principais pontos de mensagens curtas, claras e simples</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>ideas principales de mensajes cortos, claros y sencillos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>main points in short, clear, simple messages</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>3</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-4</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Themen von persönlichem Interesse, die relativ langsam und klar kommuniziert werden </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les sujets d'intérêt personnel s'ils sont exprimés de manière relativement lente et claire </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>gli argomenti di interesse personale quando la comunicazione è relativamente lenta e chiara </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>比較的ゆっくりはっきりと話されている、個人的に関心のある話題 </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>전달 내용이 상대적으로 느리면서 분명한 경우의 개인 관심사에 관한 주제</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>vertrouwde onderwerpen verstaan als er langzaam en duidelijk wordt gesproken; </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>assuntos de interesse pessoal quando a comunicação é relativamente lenta e clara </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>temas de interés personal cuando la articulación es relativamente lenta y clara </string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>topics of personal interest when the delivery is relatively slow and clear </string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>4</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-5</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Fernsehnachrichten, längere Reden und Vorträge, wenn das Thema vergleichsweise gut bekannt ist</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les informations à la télévision, les discours et exposés longs si j'en connais assez bien le sujet</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>Notiziari televisivi, discorsi e lezioni di lunga durata se l'argomento è ragionevolmente conosciuto</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ある程度よく知っている話題についてのテレビ ニュース、長い話、講演</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>해당 주제가 어느 정도 친숙한 경우의 TV 뉴스, 긴 말 및 강의</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>nieuwsprogramma’s op tv, langere toespraken en lezingen verstaan als het onderwerp redelijk vertrouwd is;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>notícias da TV, discursos e palestras mais longas se o assunto for razoavelmente familiar</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>noticias de la televisión, conferencias y discursos extensos siempre que el tema sea relativamente conocido</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>TV news, extended speech and lectures if the topic is reasonably familiar</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>5</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-6</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>komplexe Sachverhalte, erweiterte Diskussionen, implizite Bedeutungen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les arguments complexes, les discussions approfondies, le sens implicite</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>argomenti complessi, discussioni di lunga durata e significati impliciti</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>複雑な議論、長い議論、暗黙的な意味</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>복잡한 논쟁, 긴 토론, 암시적인 뜻</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>complexe redeneringen, uitgebreide discussies, impliciete betekenissen verstaan;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>argumentos complexos, longas discussões e significados implícitos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>argumentos complejos, análisis extensos, significados implícitos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>complex arguments, extended discussions, implicit meanings</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>6</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5861-7</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>alle Arten sprachlicher Beiträge auf annähernd muttersprachlichem Niveau</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Toutes les formes de langage parlé, presque comme un locuteur natif</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>tutti i tipi di conversazione quasi al livello di un madrelingua</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ネイティブ スピーカーとほぼ同じレベルで話される、あらゆる種類の話し言葉</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>원어민 수준에 가까운 모든 종류의 말</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>gesproken taal in welke vorm dan ook verstaan, bijna op het niveau van een moedertaalspreker.</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>todos os tipos de discursos, semelhante a um falante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>todo tipo de discursos casi al nivel de un hablante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>all kinds of speech at nearly the level of a native speaker</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>7</CefrLevel>
+        </SurveyResponseAnswerSentence>
+      </Answers>
+      <TargetSkill>Listening</TargetSkill>
+    </SurveyResponseQuestion>
+    <SurveyResponseQuestion>
+      <QuestionId>
+        <Value>5862</Value>
+      </QuestionId>
+      <QuestionType>SurveyResponse</QuestionType>
+      <Weight>0.4</Weight>
+      <QuestionTexts>
+        <item>
+          <key>
+            <string>de-DE</string>
+          </key>
+          <value>
+            <string>Wenn ich Englisch lese, verstehe ich:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>fr-FR</string>
+          </key>
+          <value>
+            <string>Quand je lis en anglais, j'arrive à comprendre :</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>it-IT</string>
+          </key>
+          <value>
+            <string>Quando leggo in Inglese, capisco:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ja-JP</string>
+          </key>
+          <value>
+            <string>英語を読んだときに、次の内容を理解できる。</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ko-KR</string>
+          </key>
+          <value>
+            <string>영어 학습에서 읽기를 하는 경우, 이해할 수 있는 내용은 다음과 같다.</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>nl-NL</string>
+          </key>
+          <value>
+            <string>Als ik Engelse lees, kan ik:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>pt-BR</string>
+          </key>
+          <value>
+            <string>Quando leio em inglês, eu posso compreender:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>es-419</string>
+          </key>
+          <value>
+            <string>Cuando leo en Inglés, puedo comprender lo siguiente:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>en-US</string>
+          </key>
+          <value>
+            <string>When I read in English, I can understand:</string>
+          </value>
+        </item>
+      </QuestionTexts>
+      <Answers>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-1</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Bestenfalls sehr wenige Wörter oder Formulierungen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Très peu de mots et expressions, voire aucun</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>pochissime parole ed espressioni o anche meno</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ほとんどの単語や語句を理解できない</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>극소수의 단어와 구절</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>een paar woorden en zinsfragmenten begrijpen, of minder;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>muito poucas palavras ou frases, ou até menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>muy pocas palabras y frases, o menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>very few words and phrases, or less</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>1</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-2</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>grundlegende alltäglich verwendete Wörter und kurze Sätze</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les mots et phrases courtes élémentaires de tous les jours</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>parole di uso quotidiano e brevi frasi</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>日常的に使われる基本的な単語や短い文</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>기초적인 일상 단어 및 단문</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>alledaagse woorden en korte zinnen begrijpen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>palavras básicas do dia a dia e frases curtas</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>palabras básicas de la vida cotidiana y oraciones cortas</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>basic everyday words and short sentences</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>2</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-3</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>sehr kurze und einfache alltägliche Sprachbeiträge, wie z. B. Speisekarten und Anzeigen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Le contenu très court et très simple, comme les menus et les publicités</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>brevissimi e semplici contenuti di uso quotidiano, quali menu e inserzioni pubblicitarie</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>メニューや広告など、非常に短く単純で、日常的な題材</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>메뉴나 광고와 같은 매우 짧고 간단한 일상적인 내용</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>eenvoudige, alledaagse teksten zoals menu’s en advertenties begrijpen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>materiais bastante curtos, simples e do dia a dia, como menus e propagandas</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>escritos muy cortos, sencillos y cotidianos, como menús y anuncios publicitarios</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>very short, simple everyday material, such menus and advertisements</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>3</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-4</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>einfache geschäftliche E-Mails und persönliche Nachrichten</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les e-mails professionnels et messages personnels simples</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>semplici e-mail di lavoro e messaggi personali</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>簡単な仕事関連のメールや個人的なメッセージ</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>간단한 형태의 근무 관련 이메일 및 개인 메시지</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>eenvoudige werkgerelateerde e-mails en persoonlijke berichten begrijpen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>emails simples relacionados a trabalho e mensagens pessoais</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>correos electrónicos sencillos relacionados con el trabajo y mensajes personales</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>simple work-related emails and personal messages</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>4</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-5</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Meinungsbeiträge in der Presse und Literatur</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les points de vue de journalistes et d'écrivains</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>i punti di vista degli autori in articoli dei notiziari e nella fiction</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>初めて読む記事やフィクションにおける書き手の考え方</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>뉴스 기사나 소설에서 작가의 관점</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>standpunten van schrijvers in nieuwsartikelen en fictie begrijpen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>pontos de vista de escritores em artigos de notícias e obras de ficção</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>puntos de vista de autores en artículos de noticias y ficción</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>writers’ viewpoints in news articles and fiction</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>5</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-6</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>komplexe und ausführliche Sach-, technische- und literarische Texte</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Les textes complexes et très longs, qu'ils soient factuels, techniques ou littéraires</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>testi complessi, lunghi pieni di informazioni, tecnici e letterari</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>複雑で長い、事実情報、技術文章、文学表現</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>사실, 기술, 문학 등에 관한 복잡하고 긴 텍스트</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>complexe en lange feitelijke, technische en literaire teksten begrijpen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>textos técnicos, literários ou factuais longos e complexos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>textos basados en hechos, técnicos y literarios complejos y extensos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>complex and lengthy factual, technical, and literary texts</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>6</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5862-7</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>alle Formen schriftlicher Beiträge auf annähernd muttersprachlichem Niveau</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Toutes les formes de langage écrit, presque comme un locuteur natif</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>tutte le forme di scrittura quasi al livello di un madrelingua</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ネイティブ スピーカーとほぼ同じレベルで書かれている、あらゆる種類の文書</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>원어민 수준에 가까운 모든 형태의 글</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>geschreven taal in welke vorm dan ook begrijpen, bijna op het niveau van een moedertaalspreker.</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>todos os tipos de escrita, semelhante a um falante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>cualquier forma de escritura casi al nivel de un hablante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>all forms of writing at nearly the level of a native speaker</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>7</CefrLevel>
+        </SurveyResponseAnswerSentence>
+      </Answers>
+      <TargetSkill>Reading</TargetSkill>
+    </SurveyResponseQuestion>
+    <SurveyResponseQuestion>
+      <QuestionId>
+        <Value>5863</Value>
+      </QuestionId>
+      <QuestionType>SurveyResponse</QuestionType>
+      <Weight>0.05</Weight>
+      <QuestionTexts>
+        <item>
+          <key>
+            <string>de-DE</string>
+          </key>
+          <value>
+            <string>Wenn ich mit Muttersprachlern Englisch spreche, kann ich:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>fr-FR</string>
+          </key>
+          <value>
+            <string>Quand je parle avec des locuteurs natifs en anglais, je peux :</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>it-IT</string>
+          </key>
+          <value>
+            <string>Quando parlo con madrelingua in Inglese, riesco a:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ja-JP</string>
+          </key>
+          <value>
+            <string>英語でネイティブ スピーカーと話したときに、次のことができる。</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ko-KR</string>
+          </key>
+          <value>
+            <string>영어 학습에서 원어민과 대화하는 경우, 할 수 있는 일은 다음과 같습니다.</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>nl-NL</string>
+          </key>
+          <value>
+            <string>Als ik met moedertaalsprekers Engelse spreek, kan ik:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>pt-BR</string>
+          </key>
+          <value>
+            <string>Quando falo com falantes nativos em inglês, eu posso:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>es-419</string>
+          </key>
+          <value>
+            <string>Cuando interactúo con hablantes nativos en Inglés, puedo hacer lo siguiente:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>en-US</string>
+          </key>
+          <value>
+            <string>When I talk to native speakers in English, I can:</string>
+          </value>
+        </item>
+      </QuestionTexts>
+      <Answers>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-1</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>höchstens ein oder zwei Wörter sagen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Dire un à deux mots, voire moins</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>dire frasi di uno o due parole o anche meno</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>1 ～ 2 個程度の単語を話す</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>한 두 단어 이하로 구성된 문장 말하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>korte zinnen van een of twee woorden zeggen, of minder;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>falar frases de uma ou duas palavras, ou até menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>decir enunciados de una o dos palabras, o menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>say one- or two-word statements, or less</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>1</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-2</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>durch die Anwendung grundlegender alltäglicher Wörter und Sätze einfache Fragen stellen und beantworten</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Poser des questions simples et y répondre avec des mots et des expressions élémentaires de tous les jours</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>porre e rispondere semplici domande utilizzando parole ed espressioni di uso quotidiano</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>日常的に使われる基本的な単語や語句を使って、簡単な質問をしたり質問に答えたりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>기초적인 일상 어구를 이용한 간단한 질의 응답</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>eenvoudige vragen stellen en beantwoorden met alledaagse woorden en zinsfragmenten;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>fazer e responder a perguntas simples, utilizando palavras e frases básicas do dia a dia</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>formular preguntas y respuestas simples usando palabras y frases básicas de la vida cotidiana</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>ask and answer simple questions using basic everyday words and phrases</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>2</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-3</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>mich während einfacher und alltäglicher Aufgaben sowie kurzer Gespräche verständigen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Communiquer sur des tâches simples et routinières et dans des échanges sociaux courts</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>comunicare in attività semplici e di routine e nell'ambito di brevi scambi sociali</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>単純で定型的な作業や情報を簡単な社会的交換 (社会活動) でコミュニケーションする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>단순한 일상 업무와 간단한 사회적 교환 행동에서 소통하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>communiceren over eenvoudige en alledaagse taken en korte sociale gesprekken voeren;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>comunicar-me para executar tarefas simples e rotineiras e responder a breves interações sociais</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>comunicarme en tareas sencillas y habituales, e intercambios sociales breves</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>communicate in simple and routine tasks and short social exchanges</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>3</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-4</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>mich an Smalltalk beteiligen und in Situationen verständigen, die wahrscheinlich auf Reisen auftreten</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Échanger des banalités et gérer des situations susceptibles de se produire au cours de voyages</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>prendere parte in brevi conversazioni e affrontare situazioni che potrebbero verificarsi durante un viaggio</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>旅行中にありそうな簡単な会話をしたり、状況に対応したりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>가벼운 대화에 참여하여 여행 등에서 일어날 수 있는 상황들에 대처하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>deelnemen aan spontane gesprekken talk en omgaan met situaties die zich tijdens een reis voordoen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>envolver-me em conversas sobre assuntos gerais e lidar com situações que podem ocorrer durante uma viagem</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>participar en conversaciones superficiales y desenvolverme en situaciones que podrían ocurrir cuando viajo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>engage in small talk and deal with situations likely to occur when traveling</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>4</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-5</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>aktiv an Unterhaltungen in einem mir vertrauten Kontext teilnehmen und meine Meinung verteidigen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Participer activement à une discussion dans un contexte familier et défendre mon point de vue</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>prendere parte in modo attivo in una discussione in contesti noti e difendere il mio punto di vista</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>よくわかっている状況に関する議論に積極的に参加したり、自分の考え方を主張したりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>내용을 잘 아는 토론에 적극적으로 참여하여 자신의 견해를 옹호하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>actief bijdragen aan gesprekken over vertrouwde onderwerpen en mijn standpunten verdedigen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>tomar parte ativa na discussão de um assunto familiar e defender o próprio ponto de vista</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>tomar parte activa en debates desarrollados en situaciones cotidianas y defender mi punto de vista</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>take an active part in discussion in familiar contexts and defend my viewpoint</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>5</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-6</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>mich fließend und spontan im privaten und beruflichen Umfeld verständigen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Parler couramment et spontanément dans un contexte socioprofessionnel</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>esprimermi correntemente e in modo spontaneo in contesti sociali e professionali</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>社交の場や職場でスムーズかつ自発的に自分を表現する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>사회적, 전문적 상황에서 유창하고 자연스럽게 자신을 표현하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>mezelf vloeiend en spontaan uitdrukken in sociale en professionele contexten;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>expressar-me com fluência e espontaneidade em contextos sociais e profissionais</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>expresarme con fluidez y espontaneidad en contextos sociales y profesionales</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>express myself fluently and spontaneously in social and professional contexts</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>6</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5863-7</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>mühelos kommunizieren und dabei Redewendungen benutzen sowie Bedeutungsnuancen vermitteln</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Discuter facilement en utilisant des expressions idiomatiques et des nuances de sens plus subtiles</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>conversare agevolmente utilizzando espressioni idiomatiche e comunicare sfumature di significato più sottili</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>慣用表現を使って楽々と会話をしたり、微妙な意味の違いを伝えたりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>관용적인 표현을 사용해 편안하게 대화하고 미묘한 숨은 의미를 전달하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>zonder moeite deelnemen aan gesprekken en daarbij idiomatische uitdrukkingen gebruiken en de fijnere betekenisnuances weergeven.</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>conversar sem esforço usando expressões idiomáticas e transmitir várias nuances de significado</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>conversar sin esfuerzos usando expresiones idiomáticas y transmitir matices sutiles de significado</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>converse effortlessly using idiomatic expressions and convey finer shades of meaning</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>7</CefrLevel>
+        </SurveyResponseAnswerSentence>
+      </Answers>
+      <TargetSkill>Speaking</TargetSkill>
+    </SurveyResponseQuestion>
+    <SurveyResponseQuestion>
+      <QuestionId>
+        <Value>5864</Value>
+      </QuestionId>
+      <QuestionType>SurveyResponse</QuestionType>
+      <Weight>0.05</Weight>
+      <QuestionTexts>
+        <item>
+          <key>
+            <string>de-DE</string>
+          </key>
+          <value>
+            <string>Wenn ich Englisch spreche, kann ich:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>fr-FR</string>
+          </key>
+          <value>
+            <string>Quand je parle anglais, je peux :</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>it-IT</string>
+          </key>
+          <value>
+            <string>Quando parlo Inglese, riesco a:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ja-JP</string>
+          </key>
+          <value>
+            <string>英語を話したときに、次のことができる。</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ko-KR</string>
+          </key>
+          <value>
+            <string>영어 학습에서 말하기를 하는 경우, 할 수 있는 일은 다음과 같습니다.</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>nl-NL</string>
+          </key>
+          <value>
+            <string>Als ik Engelse spreek, kan ik:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>pt-BR</string>
+          </key>
+          <value>
+            <string>Quando falo em inglês, eu posso:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>es-419</string>
+          </key>
+          <value>
+            <string>Cuando hablo en Inglés, puedo hacer lo siguiente:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>en-US</string>
+          </key>
+          <value>
+            <string>When I speak English, I can:</string>
+          </value>
+        </item>
+      </QuestionTexts>
+      <Answers>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-1</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>höchstens meinen Namen sagen und Personen grüßen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Me présenter et dire bonjour, voire moins</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>dire il mio nome e salutare le persone o anche meno</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>自分の名前を言ったり人に挨拶したりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>자신의 이름을 말하고 사람들에게 인사하는 정도</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>mijn naam zeggen en mensen begroeten, of minder;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>dizer meu nome e cumprimentar as pessoas, ou até menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>decir mi nombre y saludar a las personas, o menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>say my name and greet people, or less</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>1</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-2</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>sagen, wo ich lebe, und mir bekannte Personen mithilfe einfacher Aussagen beschreiben</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Dire où j'habite et décrire les personnes que je connais avec des phrases simples</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>dire dove vivo e descrivere le persone che conosco utilizzando delle semplici frasi</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>自分が住んでいる場所について話したり、自分が知っている人のことを簡単な表現を使って説明したりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>간단한 문장들을 사용해 사는 곳을 말하고 지인들에 대해 설명하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>in eenvoudige woorden vertellen waar ik woon en mensen beschrijven die ik ken;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>dizer onde moro e descrever as pessoas que conheço utilizando frases simples</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>decir donde vivo y describir a las personas que conozco usando oraciones sencillas</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>say where I live and describe people I know using simple statements</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>2</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-3</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>über meine Familie, meinen Beruf und Bildungsstand mithilfe grundlegender Ausdrücke berichten</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Parler de ma famille, de mon travail et de mon cursus scolaire avec des mots élémentaires</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>parlare della mia famiglia. del mio lavoro e del mio background formativo mediante una semplice terminologia</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>基本的な語句を使って、自分の家族、仕事、学歴について話す</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>기초적인 용어를 사용해 가족, 직업, 학력에 대해 말하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>in eenvoudige bewoordingen vertellen over mijn gezin, baan en opleiding;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>falar sobre minha família, meu trabalho e minha formação utilizando termos básicos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>hablar sobre mi familia, trabajo y antecedentes educativos usando términos básicos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>talk about my family, job, and educational background using basic terms</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>3</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-4</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Sätze zur Beschreibung von Ereignissen, Vorlieben und Plänen verbinden</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Construire des phrases pour décrire des événements, des goûts et des projets</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>collegare espressioni per descrivere eventi, programmi, preferenze</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>語句や慣用句をつなげて、出来事、趣味、計画について説明する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>구절들을 연결해 사건, 취향, 계획에 대해 설명하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>in korte zinnen gebeurtenissen en mijn dromen en ambities beschrijven;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>conectar frases para descrever eventos, preferências e planos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>conectar frases para describir eventos, gustos y planes</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>connect phrases to describe events, likes, and plans</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>4</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-5</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>eine Vielzahl von Themen in meinem Kompetenzbereich klar und detailliert beschreiben</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Donner une description claire et détaillée d'un grand nombre de sujets de mon domaine</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>fornire descrizioni chiare e dettagliate su una vasta gamma di argomenti nel mio settore</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>自分がよく知っている分野のさまざまな話題について、わかりやすく詳しい説明をする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>자신의 분야의 광범위한 주제들을 분명하고 상세하게 설명하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>duidelijke, gedetailleerde beschrijvingen geven over uiteenlopende onderwerpen in mijn vakgebied;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>fornecer descrições claras e detalhadas de uma grande variedade de assuntos da minha área</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>dar descripciones claras y detalladas de una amplia serie de temas en mi especialidad</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>give clear, detailed descriptions on a wide range of subjects in my field</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>5</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-6</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>komplexe Informationen gut strukturiert und artikuliert vortragen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Présenter des informations complexes de manière organisée et articulée</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>presentare informazioni complesse in modo ben organizzato e articolato</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>複雑な情報を順序立てて明確に説明する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>복잡한 정보를 조직적이고 명확하게 전달하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>complexe onderwerpen op een presenteren op een overzichtelijke en heldere manier presenteren;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>apresentar informações complexas de maneira bem-organizada e articulada</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>presentar información compleja de forma que esté bien organizada y articulada</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>present complex information in a way that is well-organized and articulate</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>6</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5864-7</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>auf annähernd muttersprachlichem Niveau logisch und effektiv argumentieren</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Argumenter avec logique et efficacité, presque comme un locuteur natif</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>discutere in modo logico ed efficace quasi al livello di un madrelingua</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ネイティブ スピーカーとほぼ同じレベルで、論理的かつ効果的に議論する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>원어민과 거의 같은 수준에서 논리적이고 효과적으로 논쟁하기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>logisch en doeltreffend discussiëren, bijna op het niveau van een moedertaalspreker.</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>argumentar de maneira lógica e eficaz, semelhante a um falante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>argumentar lógica y eficazmente casi al nivel de un hablante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>argue logically and effectively at nearly the level of a native speaker</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>7</CefrLevel>
+        </SurveyResponseAnswerSentence>
+      </Answers>
+      <TargetSkill>Speaking</TargetSkill>
+    </SurveyResponseQuestion>
+    <SurveyResponseQuestion>
+      <QuestionId>
+        <Value>5865</Value>
+      </QuestionId>
+      <QuestionType>SurveyResponse</QuestionType>
+      <Weight>0.1</Weight>
+      <QuestionTexts>
+        <item>
+          <key>
+            <string>de-DE</string>
+          </key>
+          <value>
+            <string>Wenn ich Englisch schreibe, kann ich:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>fr-FR</string>
+          </key>
+          <value>
+            <string>Quand j'écris en anglais, j'arrive à rédiger :</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>it-IT</string>
+          </key>
+          <value>
+            <string>Quando scrivo in Inglese, riesco a scrivere:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ja-JP</string>
+          </key>
+          <value>
+            <string>英語で書いたときに、次の内容を記述できる。</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>ko-KR</string>
+          </key>
+          <value>
+            <string>영어 학습에서 쓰기를 하는 경우, 다음의 내용을 작성할 수 있습니다.</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>nl-NL</string>
+          </key>
+          <value>
+            <string>Als ik Engelse schrijf, kan ik:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>pt-BR</string>
+          </key>
+          <value>
+            <string>Quando escrevo em inglês, eu posso escrever:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>es-419</string>
+          </key>
+          <value>
+            <string>Cuando escribo en Inglés, puedo componer lo siguiente:</string>
+          </value>
+        </item>
+        <item>
+          <key>
+            <string>en-US</string>
+          </key>
+          <value>
+            <string>When I write in English, I can write:</string>
+          </value>
+        </item>
+      </QuestionTexts>
+      <Answers>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-1</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Sachverhalte mit höchstens einem oder zwei Wörtern beschreiben</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Une description d'un ou deux mots, voire moins</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>descrizioni di argomenti di uno o due parole o anche meno</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>物事を表す 1 ～ 2 個程度の語句</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>사물을 한 두 단어로 설명하는 정도</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>korte beschrijvingen van een of twee woorden schrijven, of minder;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>descrições de objetos contendo uma ou duas palavras, ou até menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>descripciones de cosas de una o dos palabras, o menos</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>one- or two-word descriptions for things, or less</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>1</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-2</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>sehr kurze, einfache Nachrichten schreiben und Formulare mit persönlichen Details ausfüllen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des messages simples très courts et remplir des formulaires avec des détails personnels</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>messaggi molto brevi e semplici e compilare moduli con dettagli personali</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>非常に短くて単純なメッセージを書いたり、個人的な情報をフォームに記入したりする</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>간단한 단문 메시지 및 개인 신상 정보의 서식 채우기</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>zeer korte, eenvoudige boodschappen schrijven of formulieren voor persoonlijke gegevens invullen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>mensagens bastante curtas e simples, bem como preencher formulários com detalhes pessoais</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>mensajes muy cortos y sencillos, y formularios para llenar con detalles personales</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>very short, simple messages and fill out forms with personal details</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>2</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-3</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>einfache, persönliche Briefe schreiben, z. B. um mich bei einer Person zu bedanken</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des lettres personnelles simples, par exemple pour remercier une personne</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>lettere semplici e personali, ad esempio per ringraziare qualcuno per qualcosa</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>何かについて誰かに感謝するなど、単純で個人的な手紙を書く</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>감사장과 같은 간단한 개인 서신</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>eenvoudige, persoonlijke brieven schrijven, bijvoorbeeld om iemand te bedanken;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>cartas simples e pessoais, por exemplo, em agradecimento a alguém</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>cartas personales y sencillas, por ejemplo, para agradecerle algo a alguien</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>simple, personal letters, for example thanking someone for something</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>3</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-4</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>einfache verbundene Texte zur Beschreibung von Erfahrungen und Eindrücken verfassen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des textes simples décrivant des expériences et des impressions</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>testi connessi semplici per descrivere esperienze ed impressioni</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>単純な表現をつなげて、経験や印象について説明する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>경험이나 감동을 나타내는 간단한 수준의 연결 텍스트</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>eenvoudige, samenhangende teksten schrijven over ervaringen en indrukken;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>frases simples e conectadas descrevendo experiências e impressões</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>textos sencillos y bien enlazados que describen experiencias e impresiones</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>simple connected texts describing experiences and impressions</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>4</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-5</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>zur Stellungnahme auf eine bestimmte Meinungsäußerung klare und detaillierte Abhandlungen verfassen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des dissertations claires et détaillées pour exprimer mon accord ou désaccord sur un sujet donné</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>saggi chiari e dettagliati in cui si discute a favore o contro un particolare punto di vista</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>特定の意見について賛成や反対を示す、わかりやすく詳細な文章を書く</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>특정한 법에 대해 찬반을 주장하는 분명하면서도 상세한 에세이</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>duidelijke, gedetailleerde essays schrijven om een bepaald standpunt te verdedigen of aan te vallen;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>artigos claros e detalhados argumentando a favor de ou contra um ponto de vista em particular</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>ensayos claros y detallados para argumentar a favor o en contra de una opinión determinada</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>clear, detailed essays arguing for or against a particular view</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>5</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-6</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>gut strukturierte Texte zu komplexen Sachverhalten in einem für den Leser angemessenen Stil verfassen</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des textes bien construits sur des sujets complexes dans un style approprié au lecteur</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>testi ben organizzati su argomenti complessi in uno stile appropriato per il lettore</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>読者に合わせたスタイルで、複雑な話題を順序立てて説明する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>복잡한 주제에 대해 독자가 이해할 수 있는 문체의 조직적인 텍스트</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>overzichtelijke teksten over complexe onderwerpen schrijven in een stijl die is afgestemd op de doelgroep;</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>textos bem-organizados sobre assuntos complexos em um estilo que seja apropriado ao leitor</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>textos bien organizados sobre temas complejos en un estilo adecuado para el lector</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>well-organized texts on complex subjects in a style appropriate to the reader</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>6</CefrLevel>
+        </SurveyResponseAnswerSentence>
+        <SurveyResponseAnswerSentence>
+          <IdAnswer>5865-7</IdAnswer>
+          <AnswerTexts>
+            <item>
+              <key>
+                <string>de-DE</string>
+              </key>
+              <value>
+                <string>Berichte zu beruflichen oder literarischen Werken auf annähernd muttersprachlichem Niveau schreiben</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>fr-FR</string>
+              </key>
+              <value>
+                <string>Des critiques de contenu professionnel ou d'ouvrages littéraires, presque comme un locuteur natif</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>it-IT</string>
+              </key>
+              <value>
+                <string>recensioni di opere professioni o letterarie quasi al livello di un madrelingua</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ja-JP</string>
+              </key>
+              <value>
+                <string>ネイティブ スピーカーとほぼ同じレベルで、専門的な文章や文学的な作品を批評する</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>ko-KR</string>
+              </key>
+              <value>
+                <string>원어민과 거의 같은 수준에서 전문서나 문학 작품에 대한 평론</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>nl-NL</string>
+              </key>
+              <value>
+                <string>samenvattingen of kritieken van professionele of literaire werken schrijven, bijna op het niveau van een moedertaalspreker.</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>pt-BR</string>
+              </key>
+              <value>
+                <string>críticas de trabalhos profissionais ou literários, semelhante a um falante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>es-419</string>
+              </key>
+              <value>
+                <string>reseñas de obras profesionales o literarias casi al nivel de un hablante nativo</string>
+              </value>
+            </item>
+            <item>
+              <key>
+                <string>en-US</string>
+              </key>
+              <value>
+                <string>reviews of professional or literary works at nearly the level of a native speaker</string>
+              </value>
+            </item>
+          </AnswerTexts>
+          <CefrLevel>7</CefrLevel>
+        </SurveyResponseAnswerSentence>
+      </Answers>
+      <TargetSkill>Writing</TargetSkill>
+    </SurveyResponseQuestion>
+  </Questions>
+</SelfAssessmentTestModel>
