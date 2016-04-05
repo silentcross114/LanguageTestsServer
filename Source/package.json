@@ -1,0 +1,22 @@
+{
+  "name": "language_tests_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentcross114/LanguageTestsServer.git"
+  },
+  "keywords": [
+    "lts"
+  ],
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentcross114/LanguageTestsServer/issues"
+  },
+  "homepage": "https://github.com/silentcross114/LanguageTestsServer#readme"
+}
